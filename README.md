@@ -183,13 +183,13 @@ Under the Act, an individual has the right to:
 
 - make a complaint about an organisation or agency the Privacy Act covers, if they think they’ve mishandled your personal information
 
-Legal obligations with regards to handling user data are covered by the 133 Australian Privacy Principles: 
+The [Australian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference/ "APP") have been developed specifically to help organisations understand their obligations under the [Privacy Act](https://www.legislation.gov.au/Details/C2014C00076 "Privacy Act 1988")
 
 ![Privacy](./docs/Privacy.png)
 
-[Australian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference/ "APP")
+
 ```
-""The Australian Privacy Principles (or APPs) are the cornerstone of the privacy protection framework in the Privacy Act 1988 (Privacy Act). They apply to any organisation or agency the Privacy Act covers.
+"The Australian Privacy Principles (or APPs) are the cornerstone of the privacy protection framework in the Privacy Act 1988 (Privacy Act). They apply to any organisation or agency the Privacy Act covers.
 
 There are 13 Australian Privacy Principles and they govern standards, rights and obligations around:
 
@@ -210,7 +210,34 @@ A breach of an Australian Privacy Principle is an ‘interference with the priva
 
 REFERENCE: https://www.oaic.gov.au/privacy/australian-privacy-principles
 ```
+## Question 9
+```
+Describe the structural aspects of the relational database model. Your description should include information about the structure in which data is stored and how relations are represented in that structure.
+```
 
-
-
-
+## Question 10
+```
+Describe the integrity aspects of the relational database model. Your description should include information about the types of data integrity and how they can be enforced in a relational database.
+```
+## Question 11
+```
+Describe the manipulative aspects of the relational database model. Your description should include information about the ways in which data is manipulated (added, removed, changed, and retrieved) in a relational database.
+```
+## Question 12
+```
+Identify and explain the workings of TWO sorting algorithms and discuss and compare their performance/efficiency (i.e. Big O)
+```
+## Question 13
+```
+Identify and explain the workings of TWO search algorithms and discuss and compare their performance/efficiency (i.e. Big O)
+```
+## Question 14
+```
+Conduct research into a marketplace website (app) and answer the following parts:  a. What software is used by the app?
+  b. What hardware is used by the app?
+  c. Describe the interaction of technologies within the app
+  d. Describe the way data is structured within the app
+  e. Identify entities which must be tracked by the app
+  f. Identify the relationships and associations between the entities you have identified in part (e)
+  g. Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)
+```
